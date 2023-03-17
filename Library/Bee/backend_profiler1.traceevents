@@ -1,0 +1,539 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1678708335390792, "dur":900, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708335391701, "dur":56, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1678708335391769, "dur":15, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1678708335391784, "dur":696, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1678708335392514, "dur":663, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708335393177, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336467582, "dur":197, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336467779, "dur":119, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336467898, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336467904, "dur":99, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468004, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468008, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468021, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468023, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468030, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468032, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468039, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468041, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468047, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468048, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468056, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468058, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468063, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468065, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468071, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468073, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468079, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468080, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468086, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468087, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468094, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468096, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468102, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468103, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468110, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468112, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468117, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468119, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468125, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468147, "dur":3, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336468219, "dur":1368, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1678708335392470, "dur":713, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678708335393186, "dur":1823, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678708335395026, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1678708335395040, "dur":131, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678708335395173, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1678708335395176, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678708335397756, "dur":9144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1678708335406909, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1678708335406973, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678708335406983, "dur":282201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1678708335689213, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678708335689240, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678708335689249, "dur":98632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678708335787895, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678708335787914, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678708335787918, "dur":63296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678708335851247, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678708335851273, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678708335851286, "dur":50472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678708335901902, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678708335901928, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678708335901939, "dur":118459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678708336020419, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678708336020442, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678708336020450, "dur":227130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678708336247638, "dur":219937, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678708335392503, "dur":697, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678708335393200, "dur":1815, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678708335395027, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1678708335395149, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678708335396753, "dur":18245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1678708335415029, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335415092, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678708335415265, "dur":118566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335533860, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335533888, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678708335533898, "dur":35819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335569748, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335569780, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678708335569792, "dur":70911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335640723, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335640747, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678708335640781, "dur":130450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335771257, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335771281, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678708335771290, "dur":71703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335843015, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335843043, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678708335843051, "dur":90928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335934014, "dur":19546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335953569, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678708335953581, "dur":4565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335958166, "dur":1308, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335959481, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678708335959491, "dur":761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335960267, "dur":7025, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335967301, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678708335967314, "dur":1090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335968424, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708335968446, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678708335968457, "dur":318714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678708336287188, "dur":180436, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678708335392470, "dur":719, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678708335393189, "dur":1823, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678708335395028, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1678708335395131, "dur":9, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678708335396407, "dur":21129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1678708335417565, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678708335417594, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678708335417976, "dur":96972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678708335514968, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678708335515002, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678708335515008, "dur":54941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678708335569968, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678708335569999, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678708335570005, "dur":88441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678708335658468, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678708335658503, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678708335658511, "dur":116512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678708335775051, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678708335775082, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678708335775093, "dur":182779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678708335957889, "dur":3655, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678708335961551, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678708335961564, "dur":1785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678708335963378, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678708335963400, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678708335963407, "dur":142131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678708336105561, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678708336105584, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678708336105592, "dur":175015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678708336280631, "dur":187005, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678708335392495, "dur":700, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678708335393195, "dur":1819, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678708335395028, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1678708335395186, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678708335397856, "dur":18639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1678708335416528, "dur":6984, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1678708335423519, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678708335423529, "dur":167100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1678708335590660, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678708335590691, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678708335590701, "dur":53105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678708335644029, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678708335644143, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678708335644334, "dur":48965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678708335693327, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678708335693350, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678708335693358, "dur":80558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678708335773937, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678708335774072, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678708335774080, "dur":75428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678708335849541, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678708335849571, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678708335849582, "dur":93995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678708335943596, "dur":10715, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678708335954317, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678708335954327, "dur":3620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678708335957963, "dur":77705, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678708336035674, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678708336035982, "dur":3524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678708336039525, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678708336039543, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678708336039549, "dur":238254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678708336277829, "dur":189830, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708335392532, "dur":673, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708335393206, "dur":1813, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708335395025, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1678708335395131, "dur":10, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708335396557, "dur":17235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1678708335413814, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1678708335413860, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708335413870, "dur":108255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1678708335522183, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678708335522212, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708335522225, "dur":39918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678708335562201, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678708335562249, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708335562262, "dur":42328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678708335604612, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678708335604635, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708335604643, "dur":68146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678708335672825, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678708335672864, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708335672876, "dur":53693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678708335726588, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678708335726612, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708335726620, "dur":58631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678708335785277, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678708335785313, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708335785325, "dur":68178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678708335853518, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678708335853540, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708335853545, "dur":55800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678708335909368, "dur":292977, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678708336202392, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708336202404, "dur":1395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678708336203821, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":5, "ts":1678708336204023, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708336204241, "dur":775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":5, "ts":1678708336205031, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1678708336205049, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708336205067, "dur":1055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1678708336206138, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1678708336206158, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708336206164, "dur":2037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1678708336208219, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1678708336208241, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708336208249, "dur":1574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1678708336209847, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1678708336209989, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708336209996, "dur":947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1678708336210960, "dur":1108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1678708336212074, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708336212083, "dur":825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1678708336212929, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1678708336212991, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708336212998, "dur":2396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1678708336215417, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1678708336215451, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708336215460, "dur":1911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1678708336217391, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/level0.resS" }}
+,{ "pid":12345, "tid":5, "ts":1678708336217413, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708336217421, "dur":914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/level0.resS" }}
+,{ "pid":12345, "tid":5, "ts":1678708336218351, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1678708336218368, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708336218375, "dur":847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1678708336219239, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1678708336219260, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708336219265, "dur":840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1678708336220117, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1678708336220135, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708336220141, "dur":756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1678708336220914, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1678708336221037, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678708336221043, "dur":651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1678708336221706, "dur":245873, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678708335392556, "dur":654, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678708335393210, "dur":1811, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678708335395026, "dur":375, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1678708335395404, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678708335398870, "dur":18651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1678708335417541, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":6, "ts":1678708335417637, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678708335417973, "dur":128290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":6, "ts":1678708335546294, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678708335546325, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678708335546336, "dur":33069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678708335579434, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678708335579462, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678708335579473, "dur":77903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678708335657412, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678708335657448, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678708335657458, "dur":69302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678708335726779, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678708335726802, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678708335726842, "dur":93443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678708335820308, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678708335820337, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678708335820348, "dur":33109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678708335853484, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678708335853511, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678708335853520, "dur":174569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678708336028108, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678708336028162, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678708336028171, "dur":117116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678708336145309, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678708336145329, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678708336145336, "dur":253451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678708336398803, "dur":68786, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678708335392587, "dur":629, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678708335393216, "dur":1795, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678708335395026, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1678708335395154, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678708335397542, "dur":117095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1678708335514661, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678708335514691, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678708335514698, "dur":57845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678708335572566, "dur":227740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678708335800314, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678708335800326, "dur":1856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678708335802203, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678708335802260, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678708335802266, "dur":104088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678708335906371, "dur":120689, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678708336027067, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678708336027085, "dur":8010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678708336035118, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678708336035142, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678708336035150, "dur":59690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678708336094856, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678708336094901, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678708336094910, "dur":184614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678708336279544, "dur":188099, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678708335392622, "dur":600, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678708335393222, "dur":1800, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678708335395028, "dur":312, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1678708335395343, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678708335398572, "dur":19020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1678708335417613, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678708335417643, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678708335417941, "dur":97286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678708335515244, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678708335515300, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678708335515306, "dur":182759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678708335698087, "dur":902, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678708335698997, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678708335699009, "dur":103123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678708335802155, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678708335802213, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678708335802260, "dur":85248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678708335887527, "dur":149711, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678708336037244, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678708336037253, "dur":5195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678708336042465, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678708336042482, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678708336042489, "dur":292084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678708336334592, "dur":133012, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678708335392658, "dur":569, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678708335393227, "dur":1801, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678708335395029, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1678708335395148, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678708335396979, "dur":18749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1678708335415756, "dur":262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678708335416021, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678708335416029, "dur":1014108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678708336430152, "dur":37431, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678708335392692, "dur":539, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678708335393231, "dur":1793, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678708335395024, "dur":265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1678708335395291, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678708335398314, "dur":24414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1678708335422755, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678708335422796, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678708335422810, "dur":92887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678708335515712, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678708335515734, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678708335515739, "dur":54454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678708335570220, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678708335570247, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678708335570254, "dur":232254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678708335802526, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678708335802548, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678708335802553, "dur":60969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678708335863564, "dur":72776, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678708335936397, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678708335936414, "dur":1238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678708335937677, "dur":81771, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678708336019458, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678708336019474, "dur":1431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678708336020923, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678708336020944, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678708336020950, "dur":110284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678708336131254, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678708336131276, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678708336131283, "dur":132521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678708336263825, "dur":203827, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678708335392720, "dur":515, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678708335393236, "dur":1789, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678708335395027, "dur":228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1678708335395258, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678708335398097, "dur":295666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1678708335693785, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678708335693809, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678708335693815, "dur":88621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678708335782474, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678708335782507, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678708335782521, "dur":59500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678708335842047, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678708335842074, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678708335842083, "dur":74787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678708335916890, "dur":52763, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678708335969675, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678708335969688, "dur":7274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678708335976981, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678708335977001, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678708335977010, "dur":86658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678708336063688, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678708336063708, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678708336063994, "dur":285753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678708336349765, "dur":117830, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678708335392751, "dur":488, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678708335393239, "dur":1794, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678708335395034, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1678708335395131, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678708335395955, "dur":19628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1678708335415614, "dur":446, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678708335416066, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678708335416096, "dur":313908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678708335730029, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678708335730059, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678708335730069, "dur":57670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678708335787761, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678708335787784, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678708335787794, "dur":63428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678708335851251, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678708335851279, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678708335851289, "dur":78082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678708335929393, "dur":80708, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678708336010108, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678708336010118, "dur":945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678708336011086, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678708336011115, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678708336011151, "dur":238817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678708336250007, "dur":217570, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678708335392782, "dur":461, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678708335393243, "dur":1785, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678708335395028, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1678708335395131, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678708335396128, "dur":15421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1678708335411566, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":13, "ts":1678708335411606, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678708335411614, "dur":103071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":13, "ts":1678708335514705, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678708335514720, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678708335514725, "dur":33462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678708335548654, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678708335548681, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678708335548689, "dur":179100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678708335727807, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678708335727835, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678708335727842, "dur":73975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678708335801848, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678708335801883, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678708335801897, "dur":111884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678708335913799, "dur":80121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678708335993927, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678708335993939, "dur":1293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678708335995258, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678708335995282, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678708335995289, "dur":124161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678708336119469, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678708336119490, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678708336119500, "dur":182062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678708336301579, "dur":166040, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678708335392811, "dur":435, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678708335393246, "dur":1772, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678708335395028, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1678708335395152, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678708335397183, "dur":296729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1678708335693931, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678708335693958, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678708335693965, "dur":108337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678708335802329, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678708335802361, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678708335802371, "dur":109231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678708335911625, "dur":45809, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678708335957441, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678708335957451, "dur":2129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678708335959599, "dur":63647, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678708336023250, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678708336023256, "dur":2293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678708336025566, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678708336025588, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678708336025594, "dur":43528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678708336069140, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678708336069159, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678708336069167, "dur":64114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678708336133315, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678708336133344, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678708336133354, "dur":334152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678708336467530, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":14, "ts":1678708336467533, "dur":1, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678708335392841, "dur":408, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678708335393249, "dur":1791, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678708335395041, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1678708335395133, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678708335395976, "dur":21495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1678708335417499, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game.exe" }}
+,{ "pid":12345, "tid":15, "ts":1678708335417530, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678708335417538, "dur":6458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game.exe" }}
+,{ "pid":12345, "tid":15, "ts":1678708335424027, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678708335424062, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678708335424070, "dur":91239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678708335515330, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678708335515365, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678708335515370, "dur":32799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678708335548199, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678708335548275, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678708335548289, "dur":67449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678708335615763, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678708335615786, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678708335615795, "dur":26901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678708335642717, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678708335642825, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678708335642836, "dur":65136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678708335707994, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678708335708015, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678708335708024, "dur":94884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678708335802930, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678708335802957, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678708335802963, "dur":388851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678708336191845, "dur":122955, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678708336314808, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678708336314817, "dur":1134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678708336315972, "dur":151639, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678708335392878, "dur":375, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678708335393253, "dur":1764, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678708335395028, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1678708335395140, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678708335396504, "dur":23051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1678708335419583, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708335419609, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678708335419643, "dur":95447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708335515112, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708335515141, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678708335515152, "dur":33284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708335548463, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708335548517, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678708335548525, "dur":29698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708335578249, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708335578283, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678708335578296, "dur":26224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708335604543, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708335604568, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678708335604582, "dur":131122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708335735727, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708335735751, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678708335735761, "dur":69334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708335805114, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708335805133, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678708335805140, "dur":48919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708335854082, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708335854157, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678708335854166, "dur":36541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708335890727, "dur":132314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708336023047, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678708336023057, "dur":1349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708336024423, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708336024445, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678708336024452, "dur":105433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708336129912, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles ==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708336129933, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678708336129941, "dur":180190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"==Export/Easy_thief_game_fix/EasyThief_game_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678708336310146, "dur":157485, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678708336470659, "dur":1891, "ph":"X", "name": "ProfilerWriteOutput" }
+,
